@@ -1,0 +1,172 @@
+header {
+    background-color: #600;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #600;
+    padding: 20px;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 24px;
+}
+nav {
+    background-color: #800000;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: white;
+    padding: 10px 15px;
+    font-size: 18px;
+}
+nav a:hover {
+    background-color: #a00000;
+    border-radius: 5px;
+}
+.content {
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.store-image {
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+
+.description {
+    font-size: 1.2em;
+    margin-top: 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px; 
+}
+
+.staff-image {
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+.staff-description {
+    font-size: 1.2em;
+    margin-top: 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px; 
+}
+
+.about-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px auto;
+    max-width: 80%;
+}
+
+.about1, .about2 {
+    max-width: 400px;
+    height: auto;
+    display: block;
+}
+
+.coffee-img1, .coffee-img2, .coffee-img3{
+    max-width: 300px;
+}
+
+.coffee-img2 {
+    margin-left: 50px;
+
+}
+
+
+table.espresso-table {
+    padding: 10px; 
+    text-align: center; 
+    border: 1px solid black; 
+    background-color: beige;
+    font-size: 50px;
+    border-spacing: 50px;
+    margin: auto;
+}
+
+table.espresso-table.th {
+    font-weight: bold;
+}
+
+table.espresso-table.td {
+    font-weight: bold;
+    
+}
+
+.espresso {
+    max-width: 350px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.products_h1 {
+    text-align: center;
+
+}
+
+button.back{
+    background-color: #a00000;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    display: block;
+    margin: 20px auto;
+}
+
+table.locations {
+    margin: 0 auto; 
+    padding: 10px;
+    border-spacing: 50px; 
+    text-align: center; 
+}
+
+
+table.locations img { 
+    max-width: 600px; 
+    height: auto;
+    border: none;
+}
+
+
+table.locations th {
+    font-size: 24px; 
+    font-weight: bold; 
+}
+
+.abt-heading, .story-desc {
+    text-align: center;
+}
+
+table.table1 {
+    margin: 0 auto; 
+    padding: 10px;
+    border-spacing: 50px; 
+    text-align: center; 
+}
+
+table.table2 {
+    margin: 0 auto; 
+    padding: 10px;
+    border-spacing: 50px; 
+    text-align: center; 
+}
